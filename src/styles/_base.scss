@@ -1,0 +1,24 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: $base-font-famile;
+  font-size: $base-font-size;
+  font-weight: $base-font-weight;
+  color: $main-color;
+  background-color: $body-color;
+}
+
+::-webkit-scrollbar {
+  width: 6px;
+}
+
+::-webkit-scrollbar-thumb {
+  background:$grey-dark-color;
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: $grey-light-color;
+}

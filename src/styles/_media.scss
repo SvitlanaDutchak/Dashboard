@@ -1,0 +1,18 @@
+@media (max-width: 500px) { 
+  .header {
+    padding-left: 14px;
+    flex: 0 0 220px;
+    min-height: 100vh;
+  
+    &__content {
+      display: flex;
+      padding: 22px 0 38px;
+    }
+  } 
+
+  .navigation {
+    &__list-item {
+      width: 160px;
+    }
+  }
+}

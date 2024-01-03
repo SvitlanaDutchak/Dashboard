@@ -1,0 +1,75 @@
+.header {
+  padding-left: 28px;
+  flex: 0 0 306px;
+  min-height: 100vh;
+  background-color: $secondary-color;
+  position: relative;
+
+  &__content {
+    display: flex;
+    gap: 8px;
+    padding: 36px 0 64px;
+  }
+}
+
+.customers {
+
+  &__content {
+    background: $secondary-color;
+    padding: 30px 38px 40px;
+    box-shadow: 0px 10px 60px 0px rgba(226, 236, 249, 0.5);
+    border-radius: 30px;
+    margin: 0 95px 95px 0;
+  }
+
+  &__form {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  &__search {
+    background: $body-color;
+    border-radius: 10px;
+    border: none;
+    padding: 10px 8px;
+    color: rgba(181, 183, 192, 1);
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 18px;
+    letter-spacing: -0.01em;
+
+    &:focus-visible {
+      outline: none;
+    }
+
+  }
+
+  &__results {
+    margin: 40px 0 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+}
+
+.user {
+  position: absolute;
+  bottom: 76px;
+  left: 28px;
+  display: flex;
+  gap: 12px;
+  align-items: center;
+
+  &__name {
+    line-height: 21px;
+    color: $main-color;
+  }
+
+  &__position {
+    color: rgba(117, 117, 117, 1);
+    font-weight: 400;
+    line-height: 18px;
+  }
+
+}
