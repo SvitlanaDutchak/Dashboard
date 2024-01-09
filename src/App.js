@@ -14,20 +14,12 @@ function App() {
   return (
     <Layout>
       <Routes>
-        <Route path="Dashboard/" element={<Homepage />} />
+        <Route path="Dashboard" element={<Homepage />} />
         <Route path="customers" element={<Customers />} />
         <Route path="help" element={<Help />} />
         <Route path="product" element={<Product />} />
         <Route path="promote" element={<Promote />} />
         <Route path="income" element={<Income />} />
-        <Route
-          path="*"
-          element={
-            <main style={{ padding: "1rem" }}>
-              <p>404! There's nothing here!</p>
-            </main>
-          }
-        />
       </Routes>
     </Layout>
   );
