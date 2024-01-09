@@ -7,7 +7,7 @@ import image5 from "../images/user-square.svg"
 import image6 from "../images/wallet-money.svg"
 
 const navItems = [
-  { label: "Dashboard", path: "/Dashboard", icon: image3 },
+  { label: "Dashboard", path: "/Dashboard/", icon: image3 },
   { label: "Product", path: "/product", icon: image1 },
   { label: "Customers", path: "/customers", icon: image5 },
   { label: "Income", path: "/income", icon: image6 },
