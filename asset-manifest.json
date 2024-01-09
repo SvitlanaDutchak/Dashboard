@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/Dashboard/static/css/main.de78b79e.css",
-    "main.js": "/Dashboard/static/js/main.41113b25.js",
+    "main.js": "/Dashboard/static/js/main.a00eda91.js",
     "static/js/787.1cd31a9e.chunk.js": "/Dashboard/static/js/787.1cd31a9e.chunk.js",
-    "static/media/discount-shape.svg": "/Dashboard/static/media/discount-shape.5230029f4e637c534c143c4d95cf421f.svg",
-    "static/media/wallet-money.svg": "/Dashboard/static/media/wallet-money.25d824b57e5c5a753432296807e7285d.svg",
-    "static/media/3d-square.svg": "/Dashboard/static/media/3d-square.1ca4fd5b650bd0a4104c1a2789ca1171.svg",
-    "static/media/message-question.svg": "/Dashboard/static/media/message-question.5d23912a887f9edc9d9f8d957ec960e6.svg",
-    "static/media/user-square.svg": "/Dashboard/static/media/user-square.8262755cd49eb6fddb7f6d00ddf93ef8.svg",
-    "static/media/key-square.svg": "/Dashboard/static/media/key-square.153a0eb179be0548729792a4f21fc52e.svg",
+    "static/media/discount-shape.svg": "/Dashboard/static/media/discount-shape.6173903c20a60f923179e722dc0ff91e.svg",
+    "static/media/wallet-money.svg": "/Dashboard/static/media/wallet-money.18c43397e34f1fe16af5b4ed2e9e2cc1.svg",
+    "static/media/3d-square.svg": "/Dashboard/static/media/3d-square.28af61e375474813a6adc4fb27e44391.svg",
+    "static/media/message-question.svg": "/Dashboard/static/media/message-question.d9aa53d3772328403382b97577e39a82.svg",
+    "static/media/user-square.svg": "/Dashboard/static/media/user-square.924cbbbc07b25e78b70fae666d8425e6.svg",
+    "static/media/key-square.svg": "/Dashboard/static/media/key-square.6cea77b5f7edab5e350a0a4c207516da.svg",
     "index.html": "/Dashboard/index.html",
     "main.de78b79e.css.map": "/Dashboard/static/css/main.de78b79e.css.map",
-    "main.41113b25.js.map": "/Dashboard/static/js/main.41113b25.js.map",
+    "main.a00eda91.js.map": "/Dashboard/static/js/main.a00eda91.js.map",
     "787.1cd31a9e.chunk.js.map": "/Dashboard/static/js/787.1cd31a9e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.de78b79e.css",
-    "static/js/main.41113b25.js"
+    "static/js/main.a00eda91.js"
   ]
 }
